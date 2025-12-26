@@ -4,6 +4,6 @@ public class FirstClass {
 
 	public static void main(String[] args) {
      System.out.println("This is my first commit into tetsing class called - FirstClass.");
+     System.out.println("This is second commit");
 	}
-	
 }
